@@ -1,10 +1,5 @@
 {
     "python.pythonPath": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
     "python.envFile": "${workspaceFolder}/.env",
-    "githubPullRequests.remotes": [
-        "origin",
-        "upstream",
-        "https://github.com/kwoolter/vscode-online.git"
-    ],
     "python.terminal.activateEnvInCurrentTerminal": true,
 }
